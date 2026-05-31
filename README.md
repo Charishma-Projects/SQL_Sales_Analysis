@@ -1,3 +1,4 @@
+CREATE DATABASE sales;
 show DATABASES;
 use sales;
 
